@@ -1,6 +1,6 @@
-# Project Name
+# AI Image Generation App ( DALL-E Clone ) 
 
-The DALL-E Clone project is a recreation of the original DALL-E model by OpenAI, utilizing the OpenAI API for the creation of this project. It generates high-quality images from textual descriptions using advanced deep learning techniques. 
+The AI Image Generation App is a recreation of the original DALL-E model by OpenAI, utilizing the OpenAI API for the creation of this project. It generates high-quality images from textual descriptions using advanced deep learning techniques. 
 
 Our goal is to replicate DALL-E's ability to interpret text prompts and produce visually coherent and detailed images. The project aims to provide a user-friendly interface or API for easy interaction.
 
