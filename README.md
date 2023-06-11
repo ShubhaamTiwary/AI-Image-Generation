@@ -4,6 +4,8 @@ The DALL-E Clone project is a recreation of the original DALL-E model by OpenAI,
 
 Our goal is to replicate DALL-E's ability to interpret text prompts and produce visually coherent and detailed images. The project aims to provide a user-friendly interface or API for easy interaction.
 
+This app is made using MERN stack ( [ReactJs](https://react.dev/), [NodeJs](https://nodejs.org/en) , [ExpressJs](https://expressjs.com/) , [MongoDB](https://www.mongodb.com/) and [Tailwind CSS](https://tailwindcss.com/) )
+
 ## Table of Contents
 
 - [Installation](#installation)
