@@ -9,8 +9,9 @@ Our goal is to replicate DALL-E's ability to interpret text prompts and produce 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
+- [Demo Video](#demo)
+- [Contact](#contact)
 
 ## Installation
 1. **Clone the repository**: Start by cloning the project repository from a version control system like Git.
@@ -71,11 +72,12 @@ npm start
 ## License
 [MIT License](https://github.com/ShubhaamTiwary/AI-Image-Generation/blob/master/LICENSE)
 
-## Demo Video 
+## Demo
 
 https://github.com/ShubhaamTiwary/AI-Image-Generation/assets/89575981/295cfb95-53ed-498b-9ad5-55371d40d7fd
 
 
+## Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out:
 
 - Email: [shubhaamtiwary@gmail.com](mailto:shubhaamtiwary@gmail.com)
